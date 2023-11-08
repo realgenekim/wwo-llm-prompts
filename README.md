@@ -14,8 +14,9 @@ Over the next several months, I’ll be showing examples of these mechanism at w
 
 Links to some of these case studies:
 
-- [Two Nordstrom case studies from the _DevOps Handbook_]( https://itrevolution.com/articles/nordstrom-case-study-from-the-devops-handbook-through-the-lens-of-slowification-simplification-amplification/)
-- [Cloudflare outage analysis](https://www.linkedin.com/posts/realgenekim_post-mortem-on-cloudflare-control-plane-and-activity-7126623695489441792-bPCa/)
+- [Interpretations of two Nordstrom case studies from the _DevOps Handbook_]( https://itrevolution.com/articles/nordstrom-case-study-from-the-devops-handbook-through-the-lens-of-slowification-simplification-amplification/)
+- [Interpretation of the Cloudflare outage post-incident review](https://www.linkedin.com/posts/realgenekim_post-mortem-on-cloudflare-control-plane-and-activity-7126623695489441792-bPCa/)
+- [Interpretation of the Google leaked memo "We have no moat, and neither does OpenAI"](https://www.linkedin.com/pulse/google-leaked-memo-we-have-moat-neither-does-openai-through-gene-kim-0oghc/)
 
 In this repo, I'll be sharing the prompts that I've been using.
 
